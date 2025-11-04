@@ -8,7 +8,7 @@ let labelElement;
 // ¡CORREGIDO! Ahora coincide 100% con la consola (mayúsculas)
 const colors = {
   'Chasquido': '#FFD700',      // Amarillo Dorado
-  'Clap': '#00BFFF',         // Azul Eléctrico
+  'Aplauso': '#00BFFF',         // Azul Eléctrico
   'Ruido de fondo': '#333333' // Gris Oscuro
 };
 
@@ -16,7 +16,7 @@ const colors = {
 // ¡CORREGIDO!
 const displayNames = {
   'Chasquido': 'Chasquido',
-  'Clap': '¡Aplauso!', // <-- Aquí sí podemos poner lo que queramos
+  'Aplauso': '¡Aplauso!', // <-- Aquí sí podemos poner lo que queramos
   'Ruido de fondo': 'Ruido de fondo'
 };
 
