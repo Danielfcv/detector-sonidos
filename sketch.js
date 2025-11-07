@@ -1,5 +1,5 @@
 // 1. URL de tu modelo
-const modelURL = 'https://teachablemachine.withgoogle.com/models/vddFqxPQn/model.json';
+const modelURL = 'https://teachablemachine.withgoogle.com/models/duYoQbOrW/model.json';
 
 let classifier;
 let labelElement;
